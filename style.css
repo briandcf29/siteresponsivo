@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-image:url(https://www.terraanalises.com/doutor/uploads/2/blog/2021/12/blog-como-a-tecnologia-ajuda-a-reduzir-impactos-ambientais-49499b3266.png) ;
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+ 
+header h1{
+    text-align: center;
+    background-color: #1a814ee5;
+}
+
+p{
+    margin: 0%;
+    padding:5px;
+    background-color:#58f0b6;
+}
+
+.cta-btn{
+    background-color: aqua;
+    margin-top: 100px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.main-content{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    padding: 15px;
+    border-radius: 5px;
+    border: solid;
+    background-color: #58f0b6;
+}
+
+@media (max-width :900px) {
+h1{
+    font-size: 2.5rem;
+}
+.ladingh h2{
+    font-size: 1rem;
+}
+}
